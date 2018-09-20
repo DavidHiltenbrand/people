@@ -7,7 +7,7 @@ var locations = [
   { name: 'josh lewis', origin: 'rogersville, mo', latitude: 37.110618, longitude: -93.053759 },
   { name: 'Daniel Pritchett', origin: 'Dothan, AL', latitude: 31.2290238, longitude: -85.4766258, slack_handle: "dpritchett" },
   { name: 'Joe Ferguson', origin: 'memphis, tn', latitude: 35.2246054, longitude: -90.0001485, company: "Aol, inc", slack_handle: "joe"},
-  { name: 'David Hiltenbrand', origin: 'Pine Bluff, AR', latitude: 34.231984, longitude: -92.135550 },
+  { name: 'David Hiltenbrand', origin: 'Pine Bluff, AR', latitude: 34.231984, longitude: -92.135550, company: "Green Mountain Technology", slack_handle: "davidhiltenbrand" },
   { name: 'Ismael Alonso', origin: 'Valladolid, ES-VA', latitude: 41.6519094, longitude: -4.730486 },
   { name: 'Collin Barrett', origin: 'Kalamazoo, MI', latitude: 42.271161, longitude: -85.660178, company: "Shelby Systems", slack_handle: "cbarrett" },
   { name: 'Claudio Donndelinger', origin: 'Tucson, AZ', latitude: 32.2274179, longitude: -110.9604492 },
